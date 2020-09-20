@@ -14,12 +14,11 @@
 
 ![](Images/C++.png)
 
-Punto de Control #08 en **C++** diseñado para demostrar:
+Punto de Control #09 en **C++** diseñado para demostrar:
 
-1. :nut_and_bolt: El manejo de los tipos de compilación:
-   - **Compilación Normal**
-   - **Compilación Compartida**
-   - **Compilación Estática**
+1. :nut_and_bolt: El manejo de:
+   - **Archivos de Texto**
+   - **Archivos Binarios**
 2. :books: El uso de la libreria:
    - **NCurses**
 3. :open_file_folder:La organización de:
@@ -29,29 +28,63 @@ Punto de Control #08 en **C++** diseñado para demostrar:
 
 ---
 
-## :yellow_circle: NCursesVentanas.cpp
+## :yellow_circle: eof_get_y_put.cpp
 
-![](Images/NCursesVentanas.png)
+![](Images/Eof_get_y_putCPP.png)
 
-## :orange_circle: Salida Terminal
+## :orange_circle: Salida
 
-Se crean 4 ventanas las cuales al tocarse una tecla se van mostrando una por una, estan distribuidas equitativamente alrededor de toda la terminal.
+![](Images/.jpeg)
 
-## :red_circle: Salida Ventana 1
+---
 
-![](Images/Salida1.jpeg)
+## :red_circle: cin_y_cin-get.cpp
 
-## :red_circle: Salida Ventana 2
+![](Images/cin_y_cin-getCPP.png)
 
-![](Images/Salida2.jpeg)
+## :purple_circle: Salida
 
-## :red_circle: Salida Ventana 3
+![](Images/.jpeg)
 
-![](Images/Salida3.jpeg)
+---
 
-## :red_circle: Salida Ventana 4
+## :yellow_circle: cin-getline.cpp
 
-![](Images/Salida4.jpeg)
+![](Images/cin-getlineCPP.png)
+
+## :orange_circle: Salida
+
+![](Images/.jpeg)
+
+---
+
+## :red_circle: read_y_write.cpp
+
+![](Images/read_y_writeCPP.png)
+
+## :purple_circle: Salida
+
+![](Images/.jpeg)
+
+---
+
+## :yellow_circle: dec_oct_hex_y_setbase.cpp
+
+![](Images/dec_oct_hex_y_setbaseCPP.png)
+
+## :orange_circle: Salida
+
+![](Images/.jpeg)
+
+---
+
+## :red_circle: Precision.cpp
+
+![](Images/PrecisionCPP.png)
+
+## :purple_circle: Salida
+
+![](Images/.jpeg)
 
 ---
 
