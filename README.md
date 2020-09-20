@@ -19,8 +19,8 @@ Punto de Control #09 en **C++** diseñado para demostrar:
 1. :nut_and_bolt: El manejo de:
    - **Archivos de Texto**
    - **Archivos Binarios**
-2. :books: El uso de la libreria:
-   - **NCurses**
+2. :books: El uso de:
+   - **Formatear diferentes salidas**
 3. :open_file_folder:La organización de:
    - Código (**Visual Studio Code** y Repositorio en **Github**)
    - Imágenes (Extensión **Polacode** de **VSC**)
@@ -34,7 +34,7 @@ Punto de Control #09 en **C++** diseñado para demostrar:
 
 ## :orange_circle: Salida
 
-![](Images/.jpeg)
+![](Images/S1.jpeg)
 
 ---
 
@@ -44,7 +44,7 @@ Punto de Control #09 en **C++** diseñado para demostrar:
 
 ## :purple_circle: Salida
 
-![](Images/.jpeg)
+![](Images/S2.jpeg)
 
 ---
 
@@ -54,7 +54,7 @@ Punto de Control #09 en **C++** diseñado para demostrar:
 
 ## :orange_circle: Salida
 
-![](Images/.jpeg)
+![](Images/S3.jpeg)
 
 ---
 
@@ -64,7 +64,7 @@ Punto de Control #09 en **C++** diseñado para demostrar:
 
 ## :purple_circle: Salida
 
-![](Images/.jpeg)
+![](Images/S4.jpeg)
 
 ---
 
@@ -74,7 +74,7 @@ Punto de Control #09 en **C++** diseñado para demostrar:
 
 ## :orange_circle: Salida
 
-![](Images/.jpeg)
+![](Images/S5.jpeg)
 
 ---
 
@@ -84,7 +84,7 @@ Punto de Control #09 en **C++** diseñado para demostrar:
 
 ## :purple_circle: Salida
 
-![](Images/.jpeg)
+![](Images/S6.jpeg)
 
 ---
 
@@ -94,7 +94,7 @@ Punto de Control #09 en **C++** diseñado para demostrar:
 
 ## :orange_circle: Salida
 
-![](Images/.jpeg)
+![](Images/S7.jpeg)
 
 ---
 
@@ -104,7 +104,51 @@ Punto de Control #09 en **C++** diseñado para demostrar:
 
 ## :purple_circle: Salida
 
-![](Images/.jpeg)
+![](Images/S8.jpeg)
+
+---
+
+## :yellow_circle: Impresiones.cpp
+
+![](Images/ImpresionesCPP.png)
+
+## :orange_circle: Salida
+
+![](Images/S9.jpeg)
+
+---
+
+## :red_circle: scientific_y_fixed.cpp
+
+![](Images/scientific_y_fixedCPP.png)
+
+## :purple_circle: Salida
+
+![](Images/S10.jpeg)
+
+---
+
+## :yellow_circle: ArchivosDeTexto.cpp
+
+![](Images/ArchivosDeTextoCPP.png)
+
+## :orange_circle: Salida
+
+![](Images/S11.jpeg)
+
+## :green_circle: clientes.txt
+
+![](Images/S12.jpeg)
+
+---
+
+## :red_circle: ArchivosDeTexto2.cpp
+
+![](Images/ArchivosDeTexto2CPP.png)
+
+## :purple_circle: Salida
+
+![](Images/S13.jpeg)
 
 ---
 
