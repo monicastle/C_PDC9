@@ -80,7 +80,27 @@ Punto de Control #09 en **C++** diseñado para demostrar:
 
 ## :red_circle: Precision.cpp
 
-![](Images/PrecisionCPP.png)
+![](Images/PresicionCPP.png)
+
+## :purple_circle: Salida
+
+![](Images/.jpeg)
+
+---
+
+## :yellow_circle: cout-width.cpp
+
+![](Images/cout-widthCPP.png)
+
+## :orange_circle: Salida
+
+![](Images/.jpeg)
+
+---
+
+## :red_circle: cout-setw.cpp
+
+![](Images/cout-setwCPP.png)
 
 ## :purple_circle: Salida
 
