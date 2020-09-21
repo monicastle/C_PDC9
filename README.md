@@ -136,7 +136,7 @@ Punto de Control #09 en **C++** diseñado para demostrar:
 
 ![](Images/S11.jpeg)
 
-## :green_circle: clientes.txt
+## :orange_circle: clientes.txt
 
 ![](Images/S12.jpeg)
 
@@ -149,6 +149,46 @@ Punto de Control #09 en **C++** diseñado para demostrar:
 ## :purple_circle: Salida
 
 ![](Images/S13.jpeg)
+
+---
+
+## :yellow_circle: Asignacion #2:
+
+## :orange_circle: Contacto.cpp
+
+![](Images/ContactoCPP.png)
+
+## :red_circle: Contacto.hpp
+
+![](Images/ContactoHPP.png)
+
+## :red_circle: acceso_aleratorio.cpp
+
+![](Images/acceso_aleratorioCPP.png)
+
+## :red_circle: Salida
+
+![](Images/ss1.jpeg)
+
+---
+
+## :yellow_circle: Asignacion #3:
+
+## :orange_circle: Asignacion3.cpp
+
+![](Images/Asignacion3CPP.png)
+
+## :red_circle: Asignacion3.hpp
+
+![](Images/Asignacion3HPP.png)
+
+## :red_circle: Acceso_Aleatorio.cpp
+
+![](Images/Acceso_AleatorioCPP.png)
+
+## :red_circle: Salida
+
+![](Images/ss2.jpeg)
 
 ---
 
